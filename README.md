@@ -1,15 +1,5 @@
-# buzzwords_elevate
-community dictionary and help learning vocabulary
+## buzzwords elevate
+# Expressions
 
-### Idea Description
-
-
-### Uniqueness
-
-
-### Technology Stack
-
-FrontEnd -> Flutter
-BackEnd -> ExpressJS,NodeJS,MongoDB
-
-
+### version 1
+ * infix -> postfix calculator and evaluate
